@@ -1,0 +1,2 @@
+# DiagnosingParkinsonsDiseaseUsingEnsembleTechniques
+Diagnosing Parkinson's disease using Ensemble Techniques
